@@ -5,7 +5,7 @@ export const FABRIC_APIS = 'https://meta.fabricmc.net/v2';
 export const GDL_LEGACYJAVAFIXER_MOD_URL =
   'https://gdevs.io/legacyjavafixer-1.0.jar';
 export const MOJANG_APIS = 'https://authserver.mojang.com';
-export const JAVA_MANIFEST_URL = 'https://cdn.discordapp.com/attachments/691956140141182976/919081354312953876/openjdk8.jsonhttps://cdn.assets-gdevs.com/openjdk8.json';
+export const JAVA_MANIFEST_URL = 'https://cdn.discordapp.com/attachments/691956140141182976/919081354312953876/openjdk8.json';
 export const LATEST_JAVA_VERSION = 17;
 export const JAVA_LATEST_MANIFEST_URL =
   'https://cdn.discordapp.com/attachments/691956140141182976/919081354526879744/openjdk17.json';
